@@ -1,0 +1,796 @@
+customer_name,Recency,Frequency,Monetary,R_Score,F_Score,M_Score,Segment
+Aaron Bergman,95,28,7780,2,4,4,Loyal Customers
+Aaron Hawkins,10,14,6188,4,1,3,Potential Loyalists
+Aaron Smayling,5,33,11108,4,5,5,Champions
+Adam Bellavance,36,26,10518,3,3,5,Loyal Customers
+Adam Hart,12,27,5276,3,3,3,Loyal Customers
+Adam Shillingsburg,3,34,6860,5,5,4,Champions
+Adrian Barton,9,22,3448,4,2,1,Potential Loyalists
+Adrian Hane,3,18,3472,5,1,1,Potential Loyalists
+Adrian Shami,98,24,7304,1,3,4,Potential Loyalists
+Aimee Bixby,92,23,5635,2,3,3,Potential Loyalists
+Alan Barnes,7,21,4785,4,2,2,Potential Loyalists
+Alan Dominguez,11,26,9156,4,3,5,Loyal Customers
+Alan Haines,31,43,7329,3,5,4,Loyal Customers
+Alan Hwang,37,37,14097,3,5,5,Champions
+Alan Schoenberger,1,22,6306,5,2,4,Loyal Customers
+Alan Shonely,3,20,2862,5,2,1,Potential Loyalists
+Alejandro Ballentine,102,19,4014,1,2,2,At Risk
+Alejandro Grove,68,22,5607,2,2,3,Potential Loyalists
+Alejandro Savely,1,35,8918,5,5,5,Champions
+Aleksandra Gannaway,9,14,5128,4,1,3,Potential Loyalists
+Alex Avila,131,25,8913,1,3,5,Loyal Customers
+Alex Grayson,2,31,7580,5,4,4,Champions
+Alex Russell,11,20,2571,4,2,1,Potential Loyalists
+Alice McCarthy,3,28,6031,5,4,3,Loyal Customers
+Allen Armold,1,29,4222,5,4,2,Loyal Customers
+Allen Goldenen,94,21,1395,2,2,1,At Risk
+Allen Rosenblatt,36,21,3773,3,2,2,Potential Loyalists
+Alyssa Crouse,3,24,5942,5,3,3,Loyal Customers
+Alyssa Tate,3,32,2873,5,4,1,Loyal Customers
+Amy Cox,40,13,4921,2,1,2,At Risk
+Amy Hunt,68,19,4709,2,2,2,Potential Loyalists
+Andrew Allen,218,15,4495,1,1,2,At Risk
+Andrew Gjertsen,92,37,9881,2,5,5,Loyal Customers
+Andrew Roberts,219,22,3469,1,2,1,At Risk
+Andy Gerbode,10,19,5159,4,2,3,Loyal Customers
+Andy Reiter,103,14,1618,1,1,1,At Risk
+Andy Yotov,70,24,5871,2,3,3,Potential Loyalists
+Anemone Ratner,36,8,1541,3,1,1,At Risk
+Angele Hood,3,15,2514,5,1,1,Potential Loyalists
+Ann Blume,32,19,7851,3,2,4,Loyal Customers
+Ann Chong,10,38,7574,4,5,4,Champions
+Ann Steele,226,19,1667,1,2,1,At Risk
+Anna Andreadi,10,41,4667,4,5,2,Loyal Customers
+Anna Chung,1,19,3818,5,2,2,Loyal Customers
+Anna Gayman,96,30,6418,1,4,4,Loyal Customers
+Anna Häberlin,12,49,8231,3,5,5,Champions
+Anne McFarland,7,27,12675,4,3,5,Loyal Customers
+Anne Pryor,67,23,6089,2,3,3,Potential Loyalists
+Annie Thurman,133,15,2981,1,1,1,At Risk
+Annie Zypern,8,33,3820,4,5,2,Loyal Customers
+Anthony Garverick,10,31,6660,4,4,4,Loyal Customers
+Anthony Jacobs,193,13,2049,1,1,1,At Risk
+Anthony Johnson,103,32,3504,1,4,1,Potential Loyalists
+Anthony O'Donnell,103,26,8514,1,3,5,Loyal Customers
+Anthony Rawles,4,27,4591,5,3,2,Loyal Customers
+Anthony Witt,2,32,6136,5,4,3,Loyal Customers
+Arianne Irving,1,29,4100,5,4,2,Loyal Customers
+Art Ferguson,37,25,1611,3,3,1,Potential Loyalists
+Art Foster,35,39,10676,3,5,5,Champions
+Arthur Gainer,5,23,9409,4,3,5,Loyal Customers
+Arthur Prichep,93,20,3607,2,2,2,Potential Loyalists
+Arthur Wiediger,37,18,4824,3,1,2,Potential Loyalists
+Ashley Jarboe,10,23,4426,4,3,2,Loyal Customers
+Astrea Jones,33,25,4581,3,3,2,Potential Loyalists
+Barbara Fisher,4,32,5188,5,4,3,Loyal Customers
+Barry Blumstein,32,29,5252,3,4,3,Loyal Customers
+Barry Franz,32,26,15404,3,3,5,Loyal Customers
+Barry Französisch,94,31,5342,2,4,3,Loyal Customers
+Barry Gonzalez,10,28,8663,4,4,5,Champions
+Barry Pond,4,25,2634,5,3,1,Loyal Customers
+Barry Weirich,4,35,12336,5,5,5,Champions
+Bart Folk,7,19,6627,4,2,4,Loyal Customers
+Bart Pistole,12,17,1710,3,1,1,At Risk
+Bart Watters,36,37,19811,3,5,5,Champions
+Becky Castell,11,36,6166,4,5,3,Loyal Customers
+Becky Martin,67,36,14309,2,5,5,Loyal Customers
+Becky Pak,31,28,10582,3,4,5,Loyal Customers
+Ben Ferrer,1,27,6209,5,3,3,Loyal Customers
+Ben Peterman,2,39,7096,5,5,4,Champions
+Ben Wallace,38,30,7011,2,4,4,Loyal Customers
+Benjamin Farhat,8,18,4510,4,1,2,Potential Loyalists
+Benjamin Patterson,65,24,4214,2,3,2,Potential Loyalists
+Benjamin Venier,187,13,4891,1,1,2,At Risk
+Berenike Kampe,8,23,2907,4,3,1,Potential Loyalists
+Beth Fritzler,3,26,3046,5,3,1,Loyal Customers
+Beth Paige,3,19,3134,5,2,1,Potential Loyalists
+Beth Thompson,10,36,5510,4,5,3,Loyal Customers
+Bill Donatelli,31,26,4852,3,3,2,Potential Loyalists
+Bill Eplett,72,17,7387,2,1,4,Potential Loyalists
+Bill Overfelt,3,23,3406,5,3,1,Loyal Customers
+Bill Shonely,7,23,3032,4,3,1,Potential Loyalists
+Bill Stewart,10,35,6917,4,5,4,Champions
+Bill Tyler,10,20,3331,4,2,1,Potential Loyalists
+Bobby Elias,3,30,10016,5,4,5,Champions
+Bobby Odegard,9,24,2973,4,3,1,Potential Loyalists
+Bobby Trafton,33,25,5898,3,3,3,Loyal Customers
+Brad Eason,9,29,5226,4,4,3,Loyal Customers
+Brad Norvell,4,28,6997,5,4,4,Champions
+Brad Thomas,12,29,4072,3,4,2,Loyal Customers
+Bradley Drucker,1,14,5101,5,1,3,Loyal Customers
+Bradley Nguyen,2,30,7476,5,4,4,Champions
+Bradley Talbott,39,18,1576,2,1,1,At Risk
+Brenda Bowman,10,25,6065,4,3,3,Loyal Customers
+Brendan Dodson,72,12,3999,2,1,2,At Risk
+Brendan Murry,93,18,5441,2,1,3,Potential Loyalists
+Brendan Sweed,64,23,5597,2,3,3,Potential Loyalists
+Brian Dahlen,248,21,3879,1,2,2,At Risk
+Brian DeCherney,31,25,4262,3,3,2,Potential Loyalists
+Brian Derr,2,34,10240,5,5,5,Champions
+Brian Moss,33,28,7413,3,4,4,Loyal Customers
+Brian Stugart,11,31,6479,3,4,4,Loyal Customers
+Brian Thompson,2,37,5906,5,5,3,Champions
+Brooke Gillingham,191,25,7168,1,3,4,Potential Loyalists
+Brosina Hoffman,5,42,11099,4,5,5,Champions
+Bruce Degenhardt,98,20,3442,1,2,1,At Risk
+Bruce Geld,39,13,6066,2,1,3,Potential Loyalists
+Bruce Stewart,40,41,9375,2,5,5,Loyal Customers
+Bryan Davis,185,25,4991,1,3,3,Potential Loyalists
+Bryan Mills,31,20,9584,3,2,5,Loyal Customers
+Bryan Spruell,35,40,9173,3,5,5,Champions
+Candace McMahon,277,12,2030,1,1,1,At Risk
+Cari MacIntyre,39,36,10157,2,5,5,Loyal Customers
+Cari Sayre,6,24,4125,4,3,2,Loyal Customers
+Cari Schnelling,32,27,6240,3,3,4,Loyal Customers
+Carl Jackson,35,22,5304,3,2,3,Potential Loyalists
+Carl Ludwig,185,20,7794,1,2,4,Potential Loyalists
+Carl Weiss,4,29,6400,5,4,4,Champions
+Carlos Daly,39,28,8446,2,4,5,Loyal Customers
+Carlos Meador,100,5,1561,1,1,1,At Risk
+Carlos Soltero,7,23,5960,4,3,3,Loyal Customers
+Carol Adams,5,24,15976,4,3,5,Loyal Customers
+Carol Darley,36,17,4677,3,1,2,Potential Loyalists
+Carol Triggs,10,16,7021,4,1,4,Loyal Customers
+Caroline Jumper,134,26,13142,1,3,5,Loyal Customers
+Cassandra Brandow,4,27,6857,5,3,4,Loyal Customers
+Catherine Glotzbach,3,11,1184,5,1,1,Potential Loyalists
+Cathy Armstrong,491,12,2168,1,1,1,At Risk
+Cathy Hwang,71,14,4475,2,1,2,At Risk
+Cathy Prescott,64,29,7802,2,4,4,Loyal Customers
+Chad Cunningham,33,32,5976,3,4,3,Loyal Customers
+Chad McGuire,2,19,8945,5,2,5,Loyal Customers
+Chad Sievert,37,19,2765,3,2,1,Potential Loyalists
+Charles Crestani,64,21,3981,2,2,2,Potential Loyalists
+Charles McCrossin,8,19,6074,4,2,3,Loyal Customers
+Charles Sheldon,39,21,4825,2,2,2,Potential Loyalists
+Charlotte Melton,2,22,4066,5,2,2,Loyal Customers
+Chloris Kastensmidt,127,42,5899,1,5,3,Loyal Customers
+Chris Cortes,2,30,4019,5,4,2,Loyal Customers
+Chris McAfee,33,18,3117,3,1,1,At Risk
+Chris Selesnick,8,27,4115,4,3,2,Loyal Customers
+Christina Anderson,33,29,8329,3,4,5,Loyal Customers
+Christina DeMoss,37,45,13276,3,5,5,Champions
+Christina VanderZanden,33,28,3716,3,4,2,Loyal Customers
+Christine Abelman,3,18,3102,5,1,1,Potential Loyalists
+Christine Kargatis,102,17,2318,1,1,1,At Risk
+Christine Phan,11,22,7475,3,2,4,Loyal Customers
+Christine Sundaresam,11,27,2769,3,3,1,Potential Loyalists
+Christopher Conant,36,29,12809,3,4,5,Loyal Customers
+Christopher Martinez,39,20,5301,2,2,3,Potential Loyalists
+Christopher Schild,9,24,6810,4,3,4,Loyal Customers
+Christy Brittain,8,32,8153,4,4,4,Loyal Customers
+Chuck Clark,12,20,5164,3,2,3,Potential Loyalists
+Chuck Magee,36,16,6485,3,1,4,Potential Loyalists
+Chuck Sachs,9,43,14635,4,5,5,Champions
+Cindy Chapman,37,39,8856,3,5,5,Champions
+Cindy Schnelling,65,25,5030,2,3,3,Potential Loyalists
+Cindy Stewart,9,18,4071,4,1,2,Potential Loyalists
+Claire Gute,10,19,4279,4,2,2,Potential Loyalists
+Claudia Bergmann,71,33,6026,2,5,3,Loyal Customers
+Clay Cheatham,9,32,5305,4,4,3,Loyal Customers
+Clay Ludtke,3,36,7791,5,5,4,Champions
+Clay Rozendal,4,13,3942,5,1,2,Potential Loyalists
+Clytie Kelty,155,33,5889,1,5,3,Loyal Customers
+Corey Catlett,70,13,2626,2,1,1,At Risk
+Corey Roper,184,23,4655,1,3,2,Potential Loyalists
+Corey-Lock,1,12,2451,5,1,1,Potential Loyalists
+Corinna Mitchell,9,29,10144,4,4,5,Champions
+Craig Carreira,9,25,4825,4,3,2,Loyal Customers
+Craig Carroll,36,22,6339,3,2,4,Loyal Customers
+Craig Leslie,3,13,3004,5,1,1,Potential Loyalists
+Craig Molinari,99,32,7592,1,4,4,Loyal Customers
+Craig Reiter,4,22,2992,5,2,1,Potential Loyalists
+Craig Yedwab,42,26,4961,2,3,3,Potential Loyalists
+Cyma Kinney,39,29,4825,2,4,2,Potential Loyalists
+Cynthia Arntzen,102,23,12453,1,3,5,Loyal Customers
+Cynthia Delaney,124,14,1298,1,1,1,At Risk
+Cynthia Voltz,99,18,4041,1,1,2,At Risk
+Cyra Reiten,37,16,3178,3,1,1,At Risk
+Damala Kotsonis,3,43,12388,5,5,5,Champions
+Dan Campbell,99,14,1788,1,1,1,At Risk
+Dan Lawera,39,25,7166,2,3,4,Loyal Customers
+Dan Reichenbach,11,25,4300,3,3,2,Potential Loyalists
+Dana Kaydos,36,28,10356,3,4,5,Loyal Customers
+Daniel Byrd,3,26,6450,5,3,4,Loyal Customers
+Daniel Lacy,39,34,4218,2,5,2,Loyal Customers
+Daniel Raglin,9,36,14613,4,5,5,Champions
+Dario Medina,94,19,6130,2,2,3,Potential Loyalists
+Darren Budd,39,10,3280,2,1,1,At Risk
+Darren Koutras,5,32,9618,4,4,5,Champions
+Darren Powers,71,31,7796,2,4,4,Loyal Customers
+Darrin Martin,4,27,5969,5,3,3,Loyal Customers
+Darrin Sayre,134,26,5234,1,3,3,Potential Loyalists
+Darrin Van Huff,1,31,4938,5,4,3,Loyal Customers
+Dave Brooks,68,12,4228,2,1,2,At Risk
+Dave Hallsten,93,20,3192,2,2,1,At Risk
+Dave Kipp,1,29,8767,5,4,5,Champions
+Dave Poirier,158,23,10460,1,3,5,Loyal Customers
+David Bremer,10,13,1116,4,1,1,Potential Loyalists
+David Flashing,397,12,4085,1,1,2,At Risk
+David Kendrick,39,25,4916,2,3,2,Potential Loyalists
+David Philippe,38,18,11109,2,1,5,Potential Loyalists
+David Smith,5,31,5834,4,4,3,Loyal Customers
+David Wiener,9,20,4030,4,2,2,Potential Loyalists
+Dean Braden,3,27,4782,5,3,2,Loyal Customers
+Dean Katz,8,23,4436,4,3,2,Loyal Customers
+Dean percer,7,31,15367,4,4,5,Champions
+Deanra Eno,1,22,6098,5,2,3,Loyal Customers
+Deborah Brumfield,35,15,4642,3,1,2,Potential Loyalists
+Debra Catini,5,18,5421,4,1,3,Potential Loyalists
+Deirdre Greer,12,29,3605,3,4,2,Loyal Customers
+Delfina Latchford,4,35,10527,5,5,5,Champions
+Denise Leinenbach,9,28,6696,4,4,4,Loyal Customers
+Denise Monton,4,25,6895,5,3,4,Loyal Customers
+Dennis Bolton,67,17,5012,2,1,3,Potential Loyalists
+Dennis Kane,1,34,6409,5,5,4,Champions
+Dennis Pardue,191,19,2680,1,2,1,At Risk
+Denny Blanton,10,12,3627,4,1,2,Potential Loyalists
+Denny Joy,4,35,8629,5,5,5,Champions
+Denny Ordway,127,27,5456,1,4,3,Potential Loyalists
+Dianna Arnett,438,22,7125,1,2,4,Potential Loyalists
+Dianna Vittorini,8,19,5812,4,2,3,Loyal Customers
+Dianna Wilson,37,41,14829,3,5,5,Champions
+Dionis Lloyd,4,21,9331,5,2,5,Loyal Customers
+Don Jones,39,28,7371,2,4,4,Loyal Customers
+Don Miller,40,30,6455,2,4,4,Loyal Customers
+Don Weiss,36,17,2303,3,1,1,At Risk
+Dorothy Badders,95,19,4076,2,2,2,Potential Loyalists
+Dorothy Dickinson,92,29,6174,2,4,3,Loyal Customers
+Dorothy Wardle,10,25,3751,4,3,2,Loyal Customers
+Dorris liebe,67,29,7705,2,4,4,Loyal Customers
+Doug Bickford,9,33,6193,4,5,3,Loyal Customers
+Doug Jacobs,130,16,3700,1,1,2,At Risk
+Doug O'Connell,8,16,3746,4,1,2,Potential Loyalists
+Duane Benoit,12,16,2014,3,1,1,At Risk
+Duane Huffman,2,23,1938,5,3,1,Loyal Customers
+Duane Noonan,1,26,4593,5,3,2,Loyal Customers
+Ed Braxton,134,24,6274,1,3,4,Potential Loyalists
+Ed Jacobs,31,20,4227,3,2,2,Potential Loyalists
+Ed Ludwig,8,24,4191,4,3,2,Loyal Customers
+Edward Becker,32,21,5126,3,2,3,Potential Loyalists
+Edward Hooks,3,36,7990,5,5,4,Champions
+Edward Nazzal,12,21,3586,3,2,2,Potential Loyalists
+Eileen Kiefer,95,21,3700,2,2,2,Potential Loyalists
+Eleni McCrary,40,24,8547,2,3,5,Loyal Customers
+Elizabeth Moffitt,37,35,7459,3,5,4,Loyal Customers
+Ellis Ballard,72,25,11293,2,3,5,Loyal Customers
+Elpida Rittenbach,35,33,13606,3,5,5,Champions
+Emily Burns,277,10,1471,1,1,1,At Risk
+Emily Ducich,38,19,7561,2,2,4,Potential Loyalists
+Emily Grady,4,37,11673,5,5,5,Champions
+Emily Phan,31,26,5428,3,3,3,Loyal Customers
+Eric Barreto,1,23,4630,5,3,2,Loyal Customers
+Eric Hoffmann,39,30,3691,2,4,2,Potential Loyalists
+Eric Murdock,8,51,11624,4,5,5,Champions
+Erica Bern,1,24,3833,5,3,2,Loyal Customers
+Erica Hackney,557,21,6127,1,2,3,Potential Loyalists
+Erica Hernandez,10,18,3328,4,1,1,Potential Loyalists
+Erica Smith,8,30,4191,4,4,2,Loyal Customers
+Erin Ashbrook,134,32,4730,1,4,2,Potential Loyalists
+Erin Creighton,35,19,1446,3,2,1,Potential Loyalists
+Erin Mull,34,22,2075,3,2,1,Potential Loyalists
+Erin Smith,10,33,9414,4,5,5,Champions
+Eudokia Martin,95,20,2789,2,2,1,At Risk
+Eugene Barchas,2,25,3973,5,3,2,Loyal Customers
+Eugene Hildebrand,4,25,5825,5,3,3,Loyal Customers
+Eugene Moren,6,33,9028,4,5,5,Champions
+Eva Jacobs,4,29,11460,5,4,5,Champions
+Evan Bailliet,1,14,1647,5,1,1,Potential Loyalists
+Evan Henry,103,22,4584,1,2,2,At Risk
+Evan Minnotte,68,35,9314,2,5,5,Loyal Customers
+Filia McAdams,101,24,5711,1,3,3,Potential Loyalists
+Frank Atkinson,4,24,5492,5,3,3,Loyal Customers
+Frank Carlisle,95,15,2031,2,1,1,At Risk
+Frank Gastineau,33,17,2032,3,1,1,At Risk
+Frank Hawley,32,13,3312,3,1,1,At Risk
+Frank Merwin,36,40,8114,3,5,4,Loyal Customers
+Frank Olsen,4,39,5927,5,5,3,Champions
+Frank Preis,5,27,6680,4,4,4,Loyal Customers
+Fred Chung,92,12,3062,2,1,1,At Risk
+Fred Harton,4,12,1302,5,1,1,Potential Loyalists
+Fred Hopkins,159,31,13315,1,4,5,Loyal Customers
+Fred McMath,94,17,2620,2,1,1,At Risk
+Fred Wasserman,184,24,4147,1,3,2,Potential Loyalists
+Gary Hansen,2,39,6406,5,5,4,Champions
+Gary Hwang,1,47,10918,5,5,5,Champions
+Gary McGarr,1,20,8025,5,2,4,Loyal Customers
+Gary Mitchum,124,15,5717,1,1,3,At Risk
+Gary Zandusky,3,25,6982,5,3,4,Loyal Customers
+Gene Hale,33,24,5348,3,3,3,Loyal Customers
+Gene McClure,215,16,5258,1,1,3,At Risk
+George Ashbrook,4,24,6986,5,3,4,Loyal Customers
+George Bell,95,23,4276,1,3,2,Potential Loyalists
+George Zrebassa,12,12,2544,3,1,1,At Risk
+Georgia Rosenberg,31,24,3401,3,3,1,Potential Loyalists
+Giulietta Baptist,67,19,2161,2,2,1,At Risk
+Giulietta Dortch,192,18,6123,1,1,3,At Risk
+Giulietta Weimer,10,20,4273,4,2,2,Potential Loyalists
+Grace Kelly,8,12,2431,4,1,1,Potential Loyalists
+Grant Thornton,38,24,14128,2,3,5,Loyal Customers
+Greg Guthrie,40,29,7547,2,4,4,Loyal Customers
+Greg Hansen,457,13,2254,1,1,1,At Risk
+Greg Matthias,134,31,8065,1,4,4,Loyal Customers
+Greg Maxwell,92,31,9031,2,4,5,Loyal Customers
+Greg Tran,37,25,7475,2,3,4,Loyal Customers
+Guy Armstrong,31,21,2385,3,2,1,Potential Loyalists
+Guy Phonely,38,29,6066,2,4,3,Loyal Customers
+Guy Thornton,2,25,6165,5,3,3,Loyal Customers
+Hallie Redmond,101,22,5731,1,2,3,Potential Loyalists
+Harold Dahlen,185,33,7537,1,5,4,Loyal Customers
+Harold Engle,157,18,3066,1,1,1,At Risk
+Harold Pawlan,12,16,3982,3,1,2,Potential Loyalists
+Harold Ryan,33,17,3337,3,1,1,At Risk
+Harry Greene,12,41,5202,3,5,3,Loyal Customers
+Harry Marie,3,27,3976,5,4,2,Loyal Customers
+Heather Jas,123,25,6421,1,3,4,Potential Loyalists
+Heather Kirkland,38,20,4921,2,2,3,Potential Loyalists
+Helen Abelman,64,29,9205,2,4,5,Loyal Customers
+Helen Andreada,2,25,4742,5,3,2,Loyal Customers
+Helen Wasserman,38,30,9179,2,4,5,Loyal Customers
+Henia Zydlo,32,24,6102,3,3,3,Loyal Customers
+Henry Goldwyn,5,19,8566,4,2,5,Loyal Customers
+Henry MacAllister,7,24,3403,4,3,1,Potential Loyalists
+Herbert Flentye,3,39,5725,5,5,3,Champions
+Hilary Holden,36,24,6649,3,3,4,Loyal Customers
+Hunter Glantz,5,18,5254,4,1,3,Potential Loyalists
+Hunter Lopez,12,20,8181,3,2,4,Loyal Customers
+Ionia McGrath,1,19,6155,5,2,3,Loyal Customers
+Irene Maddox,32,26,6896,3,3,4,Loyal Customers
+Ivan Gibson,3,28,6710,5,4,4,Champions
+Ivan Liston,98,42,8275,1,5,5,Loyal Customers
+Jack Garza,103,34,6588,1,5,4,Loyal Customers
+Jack Lebron,3,36,4566,5,5,2,Loyal Customers
+Jack O'Briant,39,22,4185,2,2,2,Potential Loyalists
+James Galang,11,23,4677,3,3,2,Potential Loyalists
+James Lanier,38,18,4359,2,1,2,At Risk
+Jamie Frazer,10,48,13685,4,5,5,Champions
+Jamie Kunitz,401,18,2366,1,1,1,At Risk
+Jane Waco,71,15,9453,2,1,5,Potential Loyalists
+Janet Lee,73,22,3734,2,2,2,Potential Loyalists
+Janet Martin,165,26,5497,1,3,3,Potential Loyalists
+Janet Molinari,35,30,7801,3,4,4,Loyal Customers
+Jas O'Carroll,1,13,3134,5,1,1,Potential Loyalists
+Jason Fortune-,38,14,3558,2,1,2,At Risk
+Jason Gross,1,18,4687,5,1,2,Potential Loyalists
+Jason Klamczynski,336,31,11969,1,4,5,Loyal Customers
+Jasper Cacioppo,68,35,9535,2,5,5,Loyal Customers
+Jay Fein,225,10,1096,1,1,1,At Risk
+Jay Kimmel,3,25,5248,5,3,3,Loyal Customers
+Jenna Caffey,33,40,4888,3,5,2,Loyal Customers
+Jennifer Braxton,33,39,3157,3,5,1,Loyal Customers
+Jennifer Ferguson,9,35,12969,4,5,5,Champions
+Jennifer Halladay,11,34,6156,3,5,3,Loyal Customers
+Jennifer Jackson,1,13,2458,5,1,1,Potential Loyalists
+Jennifer Patt,62,32,5018,2,4,3,Loyal Customers
+Jeremy Ellison,9,11,647,4,1,1,Potential Loyalists
+Jeremy Farry,92,34,5607,2,5,3,Loyal Customers
+Jeremy Lonsdale,12,24,4544,3,3,2,Potential Loyalists
+Jeremy Pistek,4,39,10090,5,5,5,Champions
+Jessica Myrick,5,22,3370,4,2,1,Potential Loyalists
+Jesus Ocampo,93,10,1851,2,1,1,At Risk
+Jill Fjeld,36,42,12487,3,5,5,Champions
+Jill Matthias,31,22,3325,3,2,1,Potential Loyalists
+Jill Stevenson,101,31,7825,1,4,4,Loyal Customers
+Jim Epp,33,30,8238,3,4,5,Loyal Customers
+Jim Karlsson,102,19,5211,1,2,3,Potential Loyalists
+Jim Kriz,133,17,8203,1,1,4,Potential Loyalists
+Jim Mitchum,190,28,5956,1,4,3,Potential Loyalists
+Jim Radford,215,22,4069,1,2,2,At Risk
+Jim Sink,124,33,7995,1,5,4,Loyal Customers
+Jocasta Rupert,368,11,1612,1,1,1,At Risk
+Joe Elijah,31,35,12259,3,5,5,Champions
+Joe Kamberova,66,27,5871,2,4,3,Loyal Customers
+Joel Eaton,33,28,8466,3,4,5,Loyal Customers
+Joel Jenkins,31,30,6425,3,4,4,Loyal Customers
+John Castell,10,18,3116,4,1,1,Potential Loyalists
+John Dryer,99,23,5742,1,3,3,Potential Loyalists
+John Grady,184,29,6158,1,4,3,Potential Loyalists
+John Huston,92,31,9837,2,4,5,Loyal Customers
+John Lee,3,30,5840,5,4,3,Loyal Customers
+John Lucas,99,19,4265,1,2,2,At Risk
+John Murray,164,22,3245,1,2,1,At Risk
+John Stevenson,127,14,3246,1,1,1,At Risk
+Jonathan Doherty,8,32,9758,4,4,5,Champions
+Jonathan Howell,185,33,8321,1,5,5,Loyal Customers
+Joni Blumstein,4,17,4126,5,1,2,Potential Loyalists
+Joni Sundaresam,5,11,1327,4,1,1,Potential Loyalists
+Joni Wasserman,63,29,5863,2,4,3,Loyal Customers
+Joseph Airdo,96,24,4113,1,3,2,Potential Loyalists
+Joseph Holt,5,42,7685,4,5,4,Champions
+Joy Bell-,40,35,6314,2,5,4,Loyal Customers
+Joy Daniels,38,34,4011,2,5,2,Loyal Customers
+Joy Smith,3,25,9970,5,3,5,Champions
+Julia Barnett,10,36,12543,4,5,5,Champions
+Julia Dunbar,94,19,3334,2,2,1,At Risk
+Julia West,97,28,5666,1,4,3,Potential Loyalists
+Juliana Krohn,4,43,13784,5,5,5,Champions
+Julie Creighton,39,26,3517,2,3,1,Potential Loyalists
+Julie Kriz,92,24,3333,2,3,1,Potential Loyalists
+Julie Prescott,8,27,5638,4,4,3,Loyal Customers
+Justin Deggeller,3,18,4559,5,1,2,Potential Loyalists
+Justin Ellison,2,27,7107,5,4,4,Champions
+Justin Hirsh,9,34,11885,4,5,5,Champions
+Justin MacKendrick,39,22,3011,2,2,1,At Risk
+Justin Ritter,128,12,5363,1,1,3,At Risk
+Kalyca Meade,3,19,2785,5,2,1,Potential Loyalists
+Karen Bern,102,21,4399,1,2,2,At Risk
+Karen Carlisle,39,17,2183,2,1,1,At Risk
+Karen Daniels,64,31,14581,2,4,5,Loyal Customers
+Karen Ferguson,92,28,12912,2,4,5,Loyal Customers
+Karen Seio,277,14,1251,1,1,1,At Risk
+Karl Braun,4,33,7365,5,5,4,Champions
+Katharine Harms,1,30,9861,5,4,5,Champions
+Katherine Ducich,39,9,976,2,1,1,At Risk
+Katherine Hughes,32,29,4561,3,4,2,Loyal Customers
+Katherine Murray,2,32,5003,5,4,3,Loyal Customers
+Katherine Nockton,1,31,8930,5,4,5,Champions
+Katrina Bavinger,1,22,2791,5,2,1,Potential Loyalists
+Katrina Edelman,8,26,5486,4,3,3,Loyal Customers
+Katrina Willman,8,35,6558,4,5,4,Champions
+Kean Nguyen,34,33,7654,3,5,4,Loyal Customers
+Kean Takahito,373,14,2168,1,1,1,At Risk
+Kean Thornton,9,17,6246,4,1,4,Loyal Customers
+Keith Dawkins,37,34,15848,2,5,5,Loyal Customers
+Keith Herrera,4,27,8003,5,4,4,Champions
+Kelly Andreada,11,37,6704,3,5,4,Loyal Customers
+Kelly Collister,35,32,16560,3,4,5,Loyal Customers
+Kelly Lampkin,38,38,7685,2,5,4,Loyal Customers
+Kelly Williams,4,27,5338,5,4,3,Loyal Customers
+Ken Black,306,32,5764,1,4,3,Potential Loyalists
+Ken Brennan,3,23,2700,5,3,1,Loyal Customers
+Ken Dana,161,24,2550,1,3,1,At Risk
+Ken Heidel,9,36,5430,4,5,3,Loyal Customers
+Ken Lonsdale,10,37,7312,4,5,4,Champions
+Khloe Miller,12,21,3790,3,2,2,Potential Loyalists
+Kimberly Carter,1,19,3998,5,2,2,Loyal Customers
+Kristen Hastings,131,40,7601,1,5,4,Loyal Customers
+Kristina Nunn,184,19,3303,1,2,1,At Risk
+Kunst Miller,10,20,5362,4,2,3,Loyal Customers
+Larry Blacks,39,22,4269,2,2,2,Potential Loyalists
+Larry Hughes,9,18,5256,4,2,3,Loyal Customers
+Larry Tron,8,19,9643,4,2,5,Loyal Customers
+Laura Armstrong,65,29,7933,2,4,4,Loyal Customers
+Laurel Beltran,38,43,12919,2,5,5,Loyal Customers
+Laurel Elliston,3,20,5205,5,2,3,Loyal Customers
+Laurel Workman,4,28,7373,5,4,4,Champions
+Lauren Leatherbury,8,19,3929,4,2,2,Potential Loyalists
+Lela Donovan,62,15,3014,2,1,1,At Risk
+Lena Cacioppo,5,33,4998,4,5,3,Loyal Customers
+Lena Creighton,99,17,2758,1,1,1,At Risk
+Lena Hernandez,3,21,5608,5,2,3,Loyal Customers
+Lena Radford,8,30,8483,4,4,5,Champions
+Linda Cazamias,31,31,7692,3,4,4,Loyal Customers
+Linda Southworth,9,24,5508,4,3,3,Loyal Customers
+Lindsay Castell,101,12,3507,1,1,1,At Risk
+Lindsay Shagiari,2,20,2981,5,2,1,Potential Loyalists
+Lindsay Williams,5,19,3782,4,2,2,Potential Loyalists
+Lisa DeCherney,31,35,6413,3,5,4,Loyal Customers
+Lisa Hazard,40,11,1309,2,1,1,At Risk
+Lisa Ryan,36,33,9457,3,5,5,Champions
+Liz Carlisle,36,29,7904,3,4,4,Loyal Customers
+Liz MacKendrick,37,20,4910,2,2,2,Potential Loyalists
+Liz Pelletier,37,20,2784,2,2,1,At Risk
+Liz Preis,1,40,7212,5,5,4,Champions
+Liz Thompson,36,41,16633,3,5,5,Champions
+Liz Willingham,37,26,5355,2,3,3,Potential Loyalists
+Logan Currie,94,25,4174,2,3,2,Potential Loyalists
+Logan Haushalter,285,27,5796,1,4,3,Potential Loyalists
+Lori Olson,96,20,4041,1,2,2,At Risk
+Luke Foster,4,31,7495,5,4,4,Champions
+Luke Schmidt,134,15,5835,1,1,3,At Risk
+Luke Weiss,3,28,7965,5,4,4,Champions
+Lycoris Saunders,100,28,3526,1,4,1,Potential Loyalists
+Lynn Smith,32,17,3222,3,1,1,At Risk
+Magdelene Morse,33,22,6016,3,2,3,Potential Loyalists
+Marc Crier,124,26,8500,1,3,5,Loyal Customers
+Marc Harrigan,33,35,8619,3,5,5,Champions
+Maria Bertelson,4,22,4133,5,2,2,Loyal Customers
+Maria Etezadi,2,41,16535,5,5,5,Champions
+Maria Zettner,3,26,9141,5,3,5,Champions
+Maribeth Dona,8,39,10083,4,5,5,Champions
+Maribeth Schnelling,9,31,8382,4,4,5,Champions
+Maribeth Yedwab,11,29,10621,3,4,5,Loyal Customers
+Marina Lichtenstein,281,22,9440,1,2,5,Potential Loyalists
+Maris LaWare,31,16,5826,3,1,3,Potential Loyalists
+Mark Cousins,5,16,5895,4,1,3,Potential Loyalists
+Mark Haberlin,128,20,3603,1,2,2,At Risk
+Mark Hamilton,36,27,6913,3,4,4,Loyal Customers
+Mark Packer,250,24,3896,1,3,2,Potential Loyalists
+Mark Van Huff,1,21,4759,5,2,2,Loyal Customers
+Mary O'Rourke,129,23,6309,1,3,4,Potential Loyalists
+Mary Zewe,5,28,8104,4,4,4,Loyal Customers
+MaryBeth Skach,33,25,8654,3,3,5,Loyal Customers
+Mathew Reese,133,44,12058,1,5,5,Loyal Customers
+Matt Abelman,402,37,6185,1,5,3,Loyal Customers
+Matt Collins,9,28,10348,4,4,5,Champions
+Matt Collister,33,18,4916,3,2,2,Potential Loyalists
+Matt Connell,31,18,4968,3,2,3,Potential Loyalists
+Matt Hagelstein,5,34,7627,4,5,4,Champions
+Matthew Clasen,11,38,14500,3,5,5,Champions
+Matthew Grinstein,1,22,4913,5,2,2,Loyal Customers
+Maureen Fritzler,33,24,6515,3,3,4,Loyal Customers
+Maureen Gastineau,63,34,9805,2,5,5,Loyal Customers
+Maureen Gnade,285,19,4251,1,2,2,At Risk
+Maurice Satty,11,20,2995,3,2,1,Potential Loyalists
+Max Engle,10,31,4823,4,4,2,Loyal Customers
+Max Jones,3,32,7303,5,4,4,Champions
+Max Ludwig,8,35,9211,4,5,5,Champions
+Maxwell Schwartz,31,22,3036,3,2,1,Potential Loyalists
+Maya Herman,159,17,4248,1,1,2,At Risk
+Meg O'Connel,12,17,3589,3,1,2,Potential Loyalists
+Meg Tillman,31,27,6952,3,4,4,Loyal Customers
+Melanie Seite,5,17,1628,4,1,1,Potential Loyalists
+Michael Chen,2,21,6367,5,2,4,Loyal Customers
+Michael Dominguez,525,15,2993,1,1,1,At Risk
+Michael Grace,33,28,5998,3,4,3,Loyal Customers
+Michael Granlund,8,19,5638,4,2,3,Loyal Customers
+Michael Kennedy,3,33,7594,5,5,4,Champions
+Michael Moore,10,22,11551,4,2,5,Loyal Customers
+Michael Nguyen,12,27,8426,3,4,5,Loyal Customers
+Michael Oakman,38,16,1637,2,1,1,At Risk
+Michael Paige,9,34,8000,4,5,4,Champions
+Michael Stewart,8,18,8976,4,2,5,Loyal Customers
+Michelle Arnett,101,22,6649,1,2,4,Potential Loyalists
+Michelle Ellison,129,16,4202,1,1,2,At Risk
+Michelle Huthwaite,2,12,3951,5,1,2,Potential Loyalists
+Michelle Lonsdale,128,17,3171,1,1,1,At Risk
+Michelle Moray,8,33,5011,4,5,3,Loyal Customers
+Michelle Tran,185,34,7989,1,5,4,Loyal Customers
+Mick Brown,65,29,6289,2,4,4,Loyal Customers
+Mick Crebagga,99,22,4805,1,2,2,At Risk
+Mick Hernandez,40,18,2634,2,2,1,At Risk
+Mike Caudle,33,19,4191,3,2,2,Potential Loyalists
+Mike Gockenbach,66,16,7663,2,1,4,Potential Loyalists
+Mike Kennedy,4,36,5042,5,5,3,Champions
+Mike Pelletier,4,33,10450,5,5,5,Champions
+Mike Vittorini,1,27,8578,5,4,5,Champions
+Mitch Gastineau,2,31,6623,5,4,4,Champions
+Mitch Webber,98,35,11588,1,5,5,Loyal Customers
+Mitch Willingham,194,20,3702,1,2,2,At Risk
+Monica Federle,102,42,11709,1,5,5,Loyal Customers
+Muhammed Lee,99,16,2169,1,1,1,At Risk
+Muhammed MacIntyre,31,23,3547,3,3,1,Potential Loyalists
+Muhammed Yedwab,39,40,8616,2,5,5,Loyal Customers
+Nancy Lomonaco,7,22,5429,4,2,3,Loyal Customers
+Naresj Patel,7,31,7222,4,4,4,Loyal Customers
+Nat Carroll,186,21,4823,1,2,2,At Risk
+Nat Gilpin,42,33,6661,2,5,4,Loyal Customers
+Natalie DeCherney,9,27,4300,4,4,2,Loyal Customers
+Natalie Fritzler,2,24,8019,5,3,4,Loyal Customers
+Natalie Webber,99,41,13114,1,5,5,Loyal Customers
+Nathan Cano,191,12,2739,1,1,1,At Risk
+Nathan Gelder,9,24,10624,4,3,5,Loyal Customers
+Nathan Mautz,12,50,18382,3,5,5,Champions
+Neil Ducich,7,22,9031,4,2,5,Loyal Customers
+Neil Französisch,8,34,9089,4,5,5,Champions
+Neil Knudson,8,25,5555,4,3,3,Loyal Customers
+Neola Schneider,72,29,7033,2,4,4,Loyal Customers
+Neoma Murray,1,30,8238,5,4,5,Champions
+Nick Crebassa,3,18,7406,5,2,4,Loyal Customers
+Nick Radford,9,36,6368,4,5,4,Champions
+Nick Zandusky,67,38,10807,2,5,5,Loyal Customers
+Nicole Brennan,434,12,4396,1,1,2,At Risk
+Nicole Fjeld,96,18,4161,1,2,2,At Risk
+Nicole Hansen,2,37,12552,5,5,5,Champions
+Noah Childs,2,27,6735,5,4,4,Champions
+Noel Staavos,38,40,6428,2,5,4,Loyal Customers
+Nona Balk,1,17,4259,5,1,2,Potential Loyalists
+Nora Paige,40,14,2941,2,1,1,At Risk
+Nora Pelletier,68,26,6285,2,3,4,Loyal Customers
+Nora Preis,10,18,6579,4,2,4,Loyal Customers
+Odella Nelson,33,18,2217,3,2,1,Potential Loyalists
+Olvera Toch,38,25,4300,2,3,2,Potential Loyalists
+Pamela Coakley,3,28,5680,5,4,3,Loyal Customers
+Pamela Stobb,11,18,5800,3,2,3,Potential Loyalists
+Parhena Norris,12,28,5896,3,4,3,Loyal Customers
+Patricia Hirasaki,39,17,4660,2,1,2,At Risk
+Patrick Bzostek,7,28,7610,4,4,4,Loyal Customers
+Patrick Gardner,2,36,5926,5,5,3,Champions
+Patrick Jones,32,19,9373,3,2,5,Loyal Customers
+Patrick O'Brill,70,33,8668,2,5,5,Loyal Customers
+Patrick O'Donnell,99,44,11815,1,5,5,Loyal Customers
+Patrick Ryan,7,33,5946,4,5,3,Loyal Customers
+Paul Gonzalez,5,40,8213,4,5,4,Champions
+Paul Knutson,95,21,4386,1,2,2,At Risk
+Paul Lucas,31,17,1973,3,1,1,At Risk
+Paul MacIntyre,3,24,8710,5,3,5,Champions
+Paul Prost,36,47,11994,3,5,5,Champions
+Paul Stevenson,9,20,7362,4,2,4,Loyal Customers
+Paul Van Hugh,3,27,7430,5,4,4,Champions
+Pauline Chand,3,19,4961,5,2,3,Loyal Customers
+Pauline Johnson,1,29,4433,5,4,2,Loyal Customers
+Pauline Webber,31,20,3042,3,2,1,Potential Loyalists
+Penelope Sewall,2,16,4370,5,1,2,Potential Loyalists
+Pete Armstrong,5,27,2922,4,4,1,Loyal Customers
+Pete Kriz,35,27,6606,3,4,4,Loyal Customers
+Pete Takahito,128,17,4949,1,1,3,At Risk
+Peter Bühler,39,20,3936,2,2,2,Potential Loyalists
+Peter Fuller,65,25,9485,2,3,5,Loyal Customers
+Peter McVee,33,19,3542,3,2,1,Potential Loyalists
+Philip Brown,42,19,1328,2,2,1,At Risk
+Philip Fox,73,18,5328,2,2,3,Potential Loyalists
+Philisse Overcash,11,33,8138,3,5,4,Loyal Customers
+Phillina Ober,68,28,5316,2,4,3,Loyal Customers
+Phillip Breyer,7,33,7371,4,5,4,Champions
+Phillip Flathmann,4,40,8852,4,5,5,Champions
+Pierre Wener,101,16,1635,1,1,1,At Risk
+Quincy Jones,7,26,15508,4,3,5,Loyal Customers
+Rachel Payne,247,26,4152,1,3,2,Potential Loyalists
+Ralph Arnett,11,47,14069,3,5,5,Champions
+Ralph Kennedy,10,21,5169,4,2,3,Loyal Customers
+Ralph Ritter,1,28,5803,5,4,3,Loyal Customers
+Randy Bradley,65,36,8948,2,5,5,Loyal Customers
+Randy Ferguson,102,36,11265,1,5,5,Loyal Customers
+Raymond Buch,2,29,6293,5,4,4,Champions
+Raymond Messe,3,23,5153,5,3,3,Loyal Customers
+Resi Pölking,93,35,12119,2,5,5,Loyal Customers
+Ricardo Emerson,10,12,3949,4,1,2,Potential Loyalists
+Ricardo Sperren,103,27,4688,1,4,2,Potential Loyalists
+Richard Bierner,1,24,4896,5,3,2,Loyal Customers
+Richard Eichhorn,5,18,4243,4,2,2,Potential Loyalists
+Rick Bensley,10,25,4879,4,3,2,Loyal Customers
+Rick Duston,186,27,7612,1,4,4,Loyal Customers
+Rick Hansen,6,24,6732,4,3,4,Loyal Customers
+Rick Huthwaite,2,22,6219,5,2,4,Loyal Customers
+Rick Reed,31,36,6741,3,5,4,Loyal Customers
+Rick Wilson,8,23,7585,4,3,4,Loyal Customers
+Ritsa Hightower,1,31,11722,5,4,5,Champions
+Rob Beeghly,2,17,1752,5,1,1,Potential Loyalists
+Rob Dowd,7,33,11050,4,5,5,Champions
+Rob Haberlin,94,26,6348,2,3,4,Loyal Customers
+Rob Lucas,102,45,12563,1,5,5,Loyal Customers
+Rob Williams,71,22,3748,2,2,2,Potential Loyalists
+Robert Barroso,132,16,2531,1,1,1,At Risk
+Robert Dilbeck,9,34,11195,4,5,5,Champions
+Robert Marley,123,16,4069,1,1,2,At Risk
+Robert Waldorf,35,38,5130,3,5,3,Loyal Customers
+Roger Barcio,36,18,4903,3,2,2,Potential Loyalists
+Roger Demir,3,21,3455,5,2,1,Potential Loyalists
+Roland Fjeld,4,29,7464,4,4,4,Loyal Customers
+Roland Murray,123,13,2955,1,1,1,At Risk
+Roland Schwarz,95,20,8045,1,2,4,Potential Loyalists
+Rose O'Brian,103,31,5605,1,4,3,Potential Loyalists
+Ross Baird,12,21,4991,3,2,3,Potential Loyalists
+Ross DeVincentis,35,38,6614,3,5,4,Loyal Customers
+Roy Collins,100,18,3755,1,2,2,At Risk
+Roy Französisch,1,21,3501,5,2,1,Potential Loyalists
+Roy Phan,3,27,7337,5,4,4,Champions
+Roy Skaria,1,15,1706,5,1,1,Potential Loyalists
+Ruben Ausman,37,26,5507,2,3,3,Potential Loyalists
+Ruben Dartt,71,43,8551,2,5,5,Loyal Customers
+Russell Applegate,9,30,9572,4,4,5,Champions
+Russell D'Ascenzo,10,35,5811,4,5,3,Loyal Customers
+Ryan Akin,2,32,7601,5,4,4,Champions
+Ryan Crowe,4,24,4105,4,3,2,Loyal Customers
+Sally Hughsby,7,23,4602,4,3,2,Loyal Customers
+Sally Knutson,12,17,4320,3,1,2,Potential Loyalists
+Sally Matthias,99,22,2626,1,2,1,At Risk
+Sam Craven,37,21,3084,2,2,1,At Risk
+Sam Zeldin,38,31,8062,2,4,4,Loyal Customers
+Sample Company A,73,26,5825,2,3,3,Potential Loyalists
+Sandra Flanagan,40,16,4616,2,1,2,At Risk
+Sandra Glassco,428,10,1319,1,1,1,At Risk
+Sanjit Chand,67,26,4488,2,3,2,Potential Loyalists
+Sanjit Engle,67,39,14935,2,5,5,Loyal Customers
+Sanjit Jacobs,123,33,6797,1,5,4,Loyal Customers
+Saphhira Shifley,11,22,7074,3,2,4,Loyal Customers
+Sara Luxemburg,11,29,4959,3,4,3,Loyal Customers
+Sarah Bern,8,21,3645,4,2,2,Potential Loyalists
+Sarah Brown,284,22,7009,1,2,4,Potential Loyalists
+Sarah Foster,41,32,8982,2,4,5,Loyal Customers
+Sarah Jordon,10,42,6208,4,5,3,Loyal Customers
+Scot Coram,11,22,8248,3,2,5,Loyal Customers
+Scot Wooten,4,28,9775,4,4,5,Champions
+Scott Cohen,123,23,2262,1,3,1,At Risk
+Scott Williamson,3,36,10214,5,5,5,Champions
+Sean Braxton,94,24,6195,2,3,3,Potential Loyalists
+Sean Christensen,11,24,9139,3,3,5,Loyal Customers
+Sean Miller,3,15,3824,5,1,2,Potential Loyalists
+Sean O'Donnell,11,33,9250,3,5,5,Champions
+Sean Wendt,101,23,6027,1,3,3,Potential Loyalists
+Seth Vernon,69,38,10476,2,5,5,Loyal Customers
+Shahid Collister,12,48,7836,3,5,4,Loyal Customers
+Shahid Hopkins,5,37,8024,4,5,4,Champions
+Shahid Shariari,8,23,3038,4,3,1,Potential Loyalists
+Sharelle Roach,34,17,1837,3,1,1,At Risk
+Shaun Chance,32,22,2155,3,2,1,Potential Loyalists
+Shaun Weien,94,12,1372,2,1,1,At Risk
+Sheri Gordon,72,30,8076,2,4,4,Loyal Customers
+Shirley Daniels,92,35,5802,2,5,3,Loyal Customers
+Shirley Jackson,157,20,4426,1,2,2,At Risk
+Shirley Schmidt,701,3,122,1,1,1,At Risk
+Shui Tom,185,16,3084,1,1,1,At Risk
+Sibella Parks,4,12,2474,4,1,1,Potential Loyalists
+Skye Norling,65,32,3873,2,4,2,Potential Loyalists
+Sonia Cooley,9,21,3087,4,2,1,Potential Loyalists
+Sonia Sunley,10,31,8362,4,4,5,Champions
+Speros Goranitis,65,25,7439,2,3,4,Loyal Customers
+Stefania Perrino,39,22,5459,2,3,3,Potential Loyalists
+Stefanie Holloman,12,17,2992,3,1,1,At Risk
+Stephanie Phelps,2,27,7516,5,4,4,Champions
+Stephanie Ulpright,2,31,4409,5,4,2,Loyal Customers
+Steve Carroll,3,24,7142,5,3,4,Loyal Customers
+Steve Chapman,37,24,9348,2,3,5,Loyal Customers
+Steve Nguyen,309,11,1116,1,1,1,At Risk
+Steven Cartwright,73,21,4816,2,2,2,Potential Loyalists
+Steven Roelle,3,22,3532,5,3,1,Loyal Customers
+Steven Ward,31,44,11677,3,5,5,Champions
+Stewart Carmichael,189,23,6029,1,3,3,Potential Loyalists
+Stewart Visinsky,3,40,8134,5,5,4,Champions
+Stuart Calhoun,12,24,5895,3,3,3,Loyal Customers
+Stuart Van,93,16,7154,2,1,4,Potential Loyalists
+Sue Ann Reed,31,25,5476,3,3,3,Loyal Customers
+Sung Chung,35,17,4472,3,1,2,Potential Loyalists
+Sung Pak,36,14,2434,3,1,1,At Risk
+Sung Shariari,102,7,716,1,1,1,At Risk
+Susan Gilcrest,37,18,4112,2,2,2,Potential Loyalists
+Susan MacKendrick,457,19,6068,1,2,3,Potential Loyalists
+Susan Pistek,193,22,9103,1,3,5,Loyal Customers
+Susan Vittorini,10,14,5150,4,1,3,Potential Loyalists
+Suzanne McNair,7,15,1724,4,1,1,Potential Loyalists
+Sylvia Foulston,71,25,5461,2,3,3,Potential Loyalists
+Tamara Chand,9,29,25679,4,4,5,Champions
+Tamara Dahlen,2,25,2490,5,3,1,Loyal Customers
+Tamara Manning,131,13,1590,1,1,1,At Risk
+Tamara Willingham,1,20,5132,5,2,3,Loyal Customers
+Tanja Norvell,4,27,5275,4,4,3,Loyal Customers
+Ted Butterfield,101,13,1056,1,1,1,At Risk
+Ted Trevino,63,22,6910,2,3,4,Loyal Customers
+Thais Sissman,31,21,2039,3,2,1,Potential Loyalists
+Thea Hendricks,36,27,7670,3,4,4,Loyal Customers
+Thea Hudgings,40,19,5001,2,2,3,Potential Loyalists
+Theone Pippenger,3,48,12720,5,5,5,Champions
+Theresa Coyne,8,33,6023,4,5,3,Loyal Customers
+Theresa Swint,162,12,1195,1,1,1,At Risk
+Thomas Boland,31,26,6751,3,3,4,Loyal Customers
+Thomas Brumley,31,18,6617,3,2,4,Loyal Customers
+Thomas Seio,8,28,7477,4,4,4,Loyal Customers
+Thomas Thornton,99,17,3065,1,1,1,At Risk
+Tiffany House,99,24,5027,1,3,3,Potential Loyalists
+Tim Brockman,12,35,7199,3,5,4,Loyal Customers
+Tim Taslimi,33,21,4124,3,2,2,Potential Loyalists
+Toby Braunhardt,39,24,3281,2,3,1,Potential Loyalists
+Toby Carlisle,9,19,5245,4,2,3,Loyal Customers
+Toby Gnade,9,30,7087,4,4,4,Loyal Customers
+Toby Ritter,251,24,3732,1,3,2,Potential Loyalists
+Toby Swindell,64,16,3652,2,1,2,At Risk
+Todd Boyes,36,35,4857,3,5,2,Loyal Customers
+Todd Sumrall,68,38,16444,2,5,5,Loyal Customers
+Tom Ashbrook,8,20,4338,4,2,2,Potential Loyalists
+Tom Boeckenhauer,7,48,8220,4,5,4,Champions
+Tom Prescott,100,29,5700,1,4,3,Potential Loyalists
+Tom Stivers,1,14,5182,5,1,3,Loyal Customers
+Tom Zandusky,92,31,4875,2,4,2,Potential Loyalists
+Tonja Turnell,129,26,5835,1,3,3,Potential Loyalists
+Tony Chapman,33,24,4926,3,3,3,Loyal Customers
+Tony Molinari,37,28,5660,2,4,3,Loyal Customers
+Tony Sayre,35,10,7448,3,1,4,Potential Loyalists
+Tracy Blumstein,12,34,8126,3,5,4,Loyal Customers
+Tracy Collins,2,24,3737,5,3,2,Loyal Customers
+Tracy Hopkins,103,13,2666,1,1,1,At Risk
+Tracy Poddar,127,22,3968,1,3,2,Potential Loyalists
+Tracy Zic,33,25,5863,3,3,3,Loyal Customers
+Troy Blackwell,10,17,4034,4,1,2,Potential Loyalists
+Troy Staebel,2,27,5285,5,4,3,Loyal Customers
+Trudy Brown,12,13,3927,3,1,2,Potential Loyalists
+Trudy Glocke,8,24,3477,4,3,1,Potential Loyalists
+Trudy Schmidt,66,25,5944,2,3,3,Potential Loyalists
+Valerie Dominguez,39,28,8671,2,4,5,Loyal Customers
+Valerie Mitchum,36,23,3036,3,3,1,Potential Loyalists
+Valerie Takahito,12,27,7423,3,4,4,Loyal Customers
+Vicky Freymann,156,26,5525,1,3,3,Potential Loyalists
+Victor Preis,10,28,5048,4,4,3,Loyal Customers
+Victoria Brennan,2,18,4818,5,2,2,Loyal Customers
+Victoria Pisteka,71,29,8193,2,4,4,Loyal Customers
+Victoria Wilson,10,23,5198,4,3,3,Loyal Customers
+Vivek Gonzalez,92,32,6954,2,5,4,Loyal Customers
+Vivek Grady,220,14,2527,1,1,1,At Risk
+Vivek Sundaresam,4,17,4778,4,1,2,Potential Loyalists
+Vivian Mathis,93,14,1165,2,1,1,At Risk
+William Brown,2,48,8217,5,5,4,Champions
+Xylona Preis,64,34,7921,2,5,4,Loyal Customers
+Yana Sorensen,162,17,5405,1,1,3,At Risk
+Yoseph Carroll,254,25,9025,1,3,5,Loyal Customers
+Zuschuss Carroll,36,32,14384,3,5,5,Champions
+Zuschuss Donatelli,184,27,4955,1,4,3,Potential Loyalists
